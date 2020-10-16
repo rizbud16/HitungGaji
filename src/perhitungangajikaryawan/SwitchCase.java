@@ -1,3 +1,4 @@
+// This is switch case statement
 package perhitungangajikaryawan;
 import java.util.Scanner;
 
